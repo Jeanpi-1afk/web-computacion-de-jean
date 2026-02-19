@@ -1,0 +1,132 @@
+body {
+
+    font-family:Calibri light, calibri;
+
+    margin: 0;
+
+    background-color:#29629E;
+
+}
+
+/* Encabezado */
+
+header {
+
+    background-color:#299C9E;
+
+    color: black;
+
+    text-align: center;
+
+    padding: 20px;
+
+}
+
+/* Secciones */
+
+.seccion {
+
+    background-color: white;
+
+    margin: 20px;
+
+    padding: 20px;
+
+    border-radius: 8px;
+
+}
+
+/* Sección con imagen y texto en horizontal */
+
+.especial {
+
+    display: flex;
+
+    align-items: center;
+
+    gap: 20px;
+
+}
+
+.imagen img {
+
+    width: 200px;
+
+    border-radius: 8px;
+
+}
+
+.texto {
+
+    flex: 1;
+
+}
+
+/* Pie de página */
+
+footer {
+
+    background-color: #333;
+
+    color: white;
+
+    text-align: center;
+
+    padding: 15px;
+
+}
+ 
+button {
+
+    background-color: #27F5C8;
+
+    color: white;
+
+    border: none;
+
+    padding: 10px 20px;
+
+    border-radius: 6px;
+
+    cursor: pointer;
+
+    font-weight: bold;
+
+    transition: 0.3s;
+
+}
+ 
+button:hover {
+
+    background-color: #1fc9a5;
+
+    transform: scale(1.05);
+
+}
+
+table {
+
+    border-collapse: collapse; /* Une las líneas de la tabla */
+
+    width: 60%;
+
+}
+
+th, td {
+
+    border: 2px solid green; /* Líneas de la tabla */
+
+    padding: 8px;
+
+    text-align: center;
+
+}
+
+th {
+
+    background-color:#37E68F; /* Color del encabezado */
+
+    color:black;
+
+}
+ 
