@@ -131,7 +131,7 @@ th {
 }
 
 body {
-    font-family: Arial;
+    font-family:Calibri light;
     margin: 0;
 }
  
@@ -157,4 +157,13 @@ div {
     margin: 20px;
     background-color: #f2f2f2;
     border-radius: 8px;
+}
+Header {
+  color:black;
+  background-color: lightblue;
+  padding: 30px;
+    margin: 0px;
+  text-align:center
+  
+  
 }
