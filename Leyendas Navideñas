@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Leyendas Navideñas</title>
+<link rel="stylesheet" href="estilo.css">
+</head>
+
+<body> 
+
+<!-- MENÚ -->
+<header>
+<h1>Leyendas Navideñas del mundo</h1>
+</header>
+<nav>
+<a href="index.html">Leyendas</a>
+<a href="mitos.html">Películas</a>
+<a href="Juegos.html">Juegos</a>
+<a href="Juegos.html">Leyendas navideñas</a>
+  
+</nav>
+
+
+
+<!-- INTRO -->
+<div id="Intro">
+<h2>Introducción</h2>
+
+<p>
+Aunque hoy en día la Navidad se asocia con regalos, luces y momentos felices, en realidad también tiene un lado mucho más oscuro 
+y misterioso. Desde hace siglos, en diferentes países se han contado historias sobre criaturas, espíritus y personajes extraños 
+relacionados con estas fechas.
+</p>
+
+<p>
+Muchas de estas leyendas servían para enseñar a los niños a comportarse bien, mientras que otras explicaban fenómenos que antes 
+no se entendían. Lo interesante es que cada cultura tiene sus propias historias, algunas más terroríficas y otras más mágicas.
+</p>
+
+<p>
+En esta página vamos a ver algunas de las leyendas navideñas más conocidas del mundo y cómo han influido en la forma en la que 
+celebramos estas fiestas.
+</p>
+
+</div>
+
+<!-- LEYENDA 1 -->
+<div id="Krampus">
+
+<img src="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/gruss_vom_krampus_3.jpg">
+
+<h2>Krampus (Europa Central)</h2>
+
+<p>
+Krampus es una de las figuras más terroríficas de la Navidad. Es originario de países como Austria o Alemania y representa el lado 
+oscuro de estas fiestas. Mientras San Nicolás premia a los niños buenos, Krampus castiga a los que se portan mal.
+</p>
+
+<p>
+Su aspecto es muy inquietante: tiene cuernos, cadenas y parece una mezcla entre demonio y animal. Según la leyenda, puede asustar 
+a los niños o incluso llevárselos en un saco. Hoy en día se celebran festivales donde la gente se disfraza de Krampus.
+</p>
+<p>
+ La figura del Krampus deriva de la mitología pagana, en la cual era el hijo de una deidad del inframundo. Originalmente se mostraba como una especie de macho cabrío con lengua de serpiente, pero con la introducción del cristianismo fue adquiriendo características antropomorfas como brazos y piernas, tal vez por asimilación al Diablo.
+
+El grado de transformación varía: en algunas representaciones se muestra como un demonio con pelo y cuernos de cabra, mientras que en otras aparece con características más animales, conservando por ejemplo las pezuñas y la cola. Y más notablemente, a partir de entonces su aspecto y carácter evolucionaron de forma distinta según el lugar.
+  </p>
+
+<p> <a class="boton" href="https://es.wikipedia.org/wiki/Krampus"> Más información aquí </a></p>
+
+<iframe width="400" height="250" src="https://www.youtube.com/embed/zeuT5ANLWns?si=4QJjzj7_MKBHOouH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</div>
+
+<!-- LEYENDA 2 -->
+<div id="Befana">
+
+<img src="https://clases-italiano.es/wp-content/uploads/2015/01/bruja-Italia.jpg">
+
+<h2>La Befana (Italia)</h2>
+
+<p>
+La Befana es una figura muy conocida en Italia. Aunque parece una bruja porque vuela en escoba, en realidad es un personaje bueno 
+que deja regalos a los niños.
+</p>
+
+<p>
+Según la leyenda, no ayudó a los Reyes Magos cuando se lo pidieron y luego se arrepintió. Desde entonces, cada año sale a buscarlos 
+mientras reparte dulces o carbón dependiendo del comportamiento de los niños.
+</p>
+<p>
+ Las raíces de la Befana se encuentran en la cultura pagana precristiana. Se cree que la figura deriva de antiguas celebraciones vinculadas al solsticio de invierno, en las que se honraba a la diosa de la fertilidad y la prosperidad. Con la llegada del cristianismo, estas tradiciones fueron asimiladas o transformadas, dando vida a la figura de la Befana, que tiene lugar en el período de la Epifanía, día en el que se celebra la manifestación de Jesús a los Reyes Magos.
+
+Una de las leyendas más extendidas habla de una anciana que, tras recibir la visita de los Reyes Magos en busca de Jesús, decidió no unirse a ellos. Arrepintiéndose de su elección, cada año sale en busca del Niño, llevando regalos a los niños a lo largo del camino. Esta historia subraya el tema de la generosidad y la búsqueda del bien, haciendo de la Befana un símbolo de esperanza y redención.
+ </p>
+
+<p> <a class="boton" href="https://es.wikipedia.org/wiki/Befana"> Más información aquí </a></p>
+
+<iframe width="400" height="250" src="https://www.youtube.com/embed/RJiIOKyehfI?si=-bXrnrvzuB70fbK7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</div>
+
+<!-- LEYENDA 3 -->
+<div id="Yule">
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsTxJBcONA4BVgb2LYQr7y50ZVV74thHhnbw&s">
+
+<h2>La Cabra de Yule (Países nórdicos)</h2>
+
+<p>
+La Cabra de Yule es una figura tradicional del norte de Europa. En sus orígenes estaba relacionada con rituales paganos del invierno 
+y tenía un significado más oscuro.
+</p>
+
+<p>
+Con el tiempo, esta figura se ha convertido en un símbolo navideño más positivo, relacionado con la protección del hogar y la celebración.
+</p>
+<p>
+ La tradición remonta en la época pre-cristiana en Escandinavia y está estrechamente relacionada con Thor, el cual poseía dos cabras a las cuales tiraban de su carruaje.
+Las cabras se llamaban Tanngrisnir («enseña-dientes» o «gruñido en» nórdico antiguo) y Tanngnjóstr («dientes afilados» en nórdico antiguo) y aparecen en la Edda Poetica y la Edda Prosaica de Snorri Sturluson del siglo XIII.
+Una vez, en Yule el dios tenía hambre, mató a ambas cabras y compartió su carne con otros dioses. Posteriormente las revivió con su martillo Mjöllnir.
+  </p>
+ <p>
+ Posteriormente este mito evolucionó hasta convertir a la Julbock (cabra de Yule) en un personaje humanoide con cuernos y pezuñas, el cual representaba al demonio y que se aseguraba de que la gente que lo merecía recibiera su regalo. También se convirtió en un personaje terrorífico que causaba más de un quebradero de cabeza a la población y les pedía regalos en vez de entregárselos.
+  </p>
+
+<p> <a class="boton" href="https://es.wikipedia.org/wiki/Cabra_de_Yule"> Más información aquí </a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OBcXlUjcOSU?si=_GhGYYdG_sTJ7rTu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</div>
+
+<!-- LEYENDA 4 -->
+<div id="Mari">
+
+<img src="https://nation.cymru/wp-content/uploads/2023/11/851e4f8b-0c61-4add-9a6b-d8e1c8f3549c-copy.jpg"
+<p>
+<h2> Mary Lwyd (Gales)</h2>
+
+<p>
+La Mari Lwyd es una tradición bastante extraña de Gales. Consiste en una figura con forma de calavera de caballo que va por las 
+calles acompañada de personas cantando.
+</p>
+
+<p>
+Aunque hoy en día es algo festivo, su origen está relacionado con creencias antiguas sobre espíritus y el invierno.
+</p>
+
+<p> <a class="boton" href="https://es.wikipedia.org/wiki/Mari_Lwyd"> Más información aquí </a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S1LVtc6Mfrc?si=t_C8WIfzIvvLb-j6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</div>
+
+<!-- TABLA -->
+<div class="seccion">
+
+<h2>Más leyendas navideñas</h2>
+
+<table>
+
+<tr>
+<th>Olentzero</th>
+<th>Ded Moroz</th>
+<th>Tomte</th>
+<th>Perchta</th>
+</tr>
+
+<tr>
+
+<td>
+Olentzero es un personaje del País Vasco que representa a un carbonero que baja de las montañas en Navidad para repartir regalos.
+Su historia está relacionada con la vida rural y con antiguas tradiciones. Hoy en día es una figura muy querida y forma parte de 
+muchas celebraciones navideñas en el norte de España.
+</td>
+
+<td>
+Ded Moroz es el equivalente ruso de Papá Noel. Vive en zonas muy frías y reparte regalos en invierno acompañado de su nieta.
+Su historia mezcla tradiciones antiguas con elementos modernos y es uno de los personajes más importantes de la Navidad en Rusia.
+</td>
+
+<td>
+El Tomte es un pequeño duende de la tradición escandinava que protege las casas. Si se le trata bien, trae buena suerte, pero si 
+se enfada puede causar problemas. Durante la Navidad, la gente suele dejarle comida como agradecimiento.
+</td>
+
+<td>
+Perchta es una figura más oscura que aparece en los Alpes. Se dice que castiga a quienes no cumplen con las tradiciones.
+Aunque puede parecer aterradora, su función era enseñar disciplina y mantener vivas las costumbres.
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+<iframe width="200" height="200" src="https://www.youtube.com/embed/tjUKAowgkNQ?si=YfasWknj8azcDWzG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</td>
+
+<td>
+<iframe width="200" height="200" src="https://www.youtube.com/embed/fQ3gM84tLEk?si=sB2IYTAo_hdBFR5V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</td>
+
+<td>
+<iframe width="200" height="200" src="https://www.youtube.com/embed/9pGsp1Aa78w?si=jOzfba-wAVsTb2S4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</td>
+
+<td>
+<iframe width="200" height="200" src="https://www.youtube.com/embed/xHaaOOGx51g?si=zepx1_RYhLmJ2xa2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<footer>
+<p>© 2026 - Leyendas Navideñas</p>
+</footer>
+
+</body>
+</html>
